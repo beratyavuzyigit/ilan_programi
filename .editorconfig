@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0169: vt_ayar.reader' alanı hiçbir zaman kullanılmaz
+dotnet_diagnostic.CS0169.severity = silent

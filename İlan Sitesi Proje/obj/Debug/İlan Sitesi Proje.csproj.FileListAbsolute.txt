@@ -1,0 +1,33 @@
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\bin\Debug\İlan Sitesi Proje.exe.config
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\bin\Debug\İlan Sitesi Proje.exe
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\bin\Debug\İlan Sitesi Proje.pdb
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan Sitesi Proje.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.Properties.Resources.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan Sitesi Proje.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan Sitesi Proje.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan Sitesi Proje.exe
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan Sitesi Proje.pdb
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan Sitesi Proje.csproj.CopyComplete
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.adminKullaniciListesi.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.anaProgram.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.girisYap.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.ilanVer.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.kayitOl.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.ilanListeleme.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.ilanDetay.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.adminAnaMenu.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.adminKullaniciDuzenle.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.adminIlanListesi.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.ilanDuzenle.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.adminOnaysizIlanlar.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.uyePaneli.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.kullaniciDuzenle.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.uyeIlanlariGoruntule.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.adminMarkaEkleSil.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.adminMarkaDuzenle.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.adminModelEkleSil.resources
+C:\Users\HP\source\repos\İlan Sitesi Proje\İlan Sitesi Proje\obj\Debug\İlan_Sitesi_Proje.adminModelDuzenle.resources
